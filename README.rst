@@ -1,6 +1,9 @@
 ###################################
 Python Application Project Template
 ###################################
+This is a fork of the cookiecutter for python app project (https://github.com/mdklatt/cookiecutter-python-app). 
+I've added feature such us: Flake8, Coverage.py, python-dotenv, Bandit, Safety, and pre-commit.
+
 
 .. _travis: https://travis-ci.org/mdklatt/cookiecutter-python-app
 .. |badge| image:: https://travis-ci.org/mdklatt/cookiecutter-python-app.png
